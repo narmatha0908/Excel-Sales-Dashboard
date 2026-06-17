@@ -26,7 +26,8 @@ Developed an interactive sales dashboard in Microsoft Excel to analyze sales per
 - Microsoft Excel
 
 ## Dashboard Preview
-<img width="697" height="399" alt="Screenshot 2026-06-15 212822" src="https://github.com/user-attachments/assets/0acecaa3-4bee-48ff-a0b1-44a3250b5977" />
+<img width="1082" height="432" alt="Screenshot 2026-06-17 132103" src="https://github.com/user-attachments/assets/0bd5cb10-4b2d-4e44-824f-91f398507179" />
+
 
 
 ## Key Insights
